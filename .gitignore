@@ -1,0 +1,83 @@
+# Arquivos e diretórios gerados pela compilação
+bin/
+obj/
+
+# Arquivos de solução
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos de dependências NuGet
+packages/
+
+# Arquivos de histórico de configuração do usuário
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Diretórios de saída do Visual Studio
+.vscode/
+.vs/
+_vscode/
+
+# Arquivos de log e rastreamento de erros
+[Tt]race/
+Log/
+logs/
+
+# Arquivos de depuração
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb][Ii][Nn]/
+[Oo][Bb][Jj]/
+[Ll][Oo][Gg]s/
+
+# Arquivos temporários
+[Tt]emp/
+[Tt]est[Rr]esults/
+[Bb]uild[Ll]og.*
+
+# Arquivos de projeto
+*.user
+*.userosscache
+*.suo
+*.sdf
+*.opensdf
+
+# Arquivos de cache
+ipch/
+*.sbr
+
+# Visual Studio Installer
+.vsconfig
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
